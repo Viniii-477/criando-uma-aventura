@@ -1,0 +1,10 @@
+body{
+
+    background-color: rgb(114, 114, 167);
+    color: white;
+    .bbh-sans-bogle-regular {
+        font-family: "BBH Sans Bogle", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+}
